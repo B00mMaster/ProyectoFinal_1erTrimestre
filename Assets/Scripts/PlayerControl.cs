@@ -22,9 +22,10 @@ public class PlayerControl : MonoBehaviour
 
         transform.Translate(Vector3.forward * speed * Time.deltaTime * verticalInput);
 
-
+       
     }
 
+    
 
 
 
